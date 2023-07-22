@@ -77,12 +77,11 @@ rivian
   .accelerate();
 
   console.log(rivian.speedUS); //this is how to call getters and setters, the '()' is not needed.
-  
-  
 
 
-  
-// const EVCl = function(make, speed, charge) {
+
+    // Other Methods of Expression 
+  // const EVCl = function(make, speed, charge) {
 //     CarCl.call(this, make, speed); //Using the 'Car Class' here, rather than writing the properties again...
 //        ...CarCl always include the 'this' keyword in its argument.
 //     this.charge = charge
